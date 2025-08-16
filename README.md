@@ -29,8 +29,12 @@ Student Name 3
 - Students can have different numbers of assignments/tests
 
 ## Installation
+### Option 1: Download the Installer (Recommended)
+1. Download the Innosetup Installer
+2. Follow the instructions of the Installation Wizard
+3. Your program is now ready for use!
 
-### Option 1: Download the Executable (Recommended)
+### Option 2: Download the Executable
 1. Download the Executable directly
 2. Your program will be ready for use
 
@@ -67,3 +71,4 @@ This tool is designed for:
 ## Contributing and/or Support
 If you encounter any issues or have questions about this tool, please create an issue on the Github page.
 Feel free to submit issues and enhancement requests!
+
